@@ -8,7 +8,7 @@ window.WATAR_CONFIG = {
 
   // Where the contact form sends messages
   whatsapp: "966500000000",          // international format, digits only
-  email: "hello@watar.example",
+  email: "wataraicare@gmail.com",
 
   // Live demo: the agent server's browser entrance (web_bridge.py → /ws/web).
   // Relative path = same server that serves this page.
