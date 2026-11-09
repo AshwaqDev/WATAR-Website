@@ -1,0 +1,11 @@
+.env
+*.db
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+*.log
+.git
+README.md
+render.yaml
